@@ -1,0 +1,4 @@
+# 내가 작성한 설정들은 git 무시할 파일
+build/
+dist/
+data/
